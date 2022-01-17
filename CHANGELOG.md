@@ -3,8 +3,13 @@
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
 
-## [Unreleased](https://github.com/blade-ui-kit/blade-ui-kit/compare/0.3.2...main)
+## [Unreleased](https://github.com/blade-ui-kit/blade-ui-kit/compare/0.3.3...main)
 
+
+## [0.3.3 (2022-01-17)](https://github.com/blade-ui-kit/blade-ui-kit/compare/0.3.2...0.3.3)
+
+### Added
+- Added support for Laravel 9.x ([#122](https://github.com/blade-ui-kit/blade-ui-kit/pull/122))
 
 ## [0.3.2 (2021-10-24)](https://github.com/blade-ui-kit/blade-ui-kit/compare/0.3.1...0.3.2)
 
